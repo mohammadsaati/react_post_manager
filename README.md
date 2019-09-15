@@ -13,4 +13,4 @@ You will also see any lint errors in the console.
 ### programmer info
 Email : mohammadsaati01@yahoo.com<br>
 Gmail : mohammadtbz@gmail.com<br>
-inistagram : [https://www.instagram.com/mohammad._.pc](mohammad._.pc) to follow me
+inistagram : [mohammad._.pc](https://www.instagram.com/mohammad._.pc) to follow me
