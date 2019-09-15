@@ -1,0 +1,19 @@
+.nav-item a {
+  color: #ffff;
+}
+.box {
+  border: 0px #fff;
+
+background-color: #0568d2;
+
+box-shadow: 4px 4px 4px 4px #d8e1f4;
+
+padding-top: 14px;
+
+color: #fff;
+}
+.post-box {
+  padding-top: 10px;
+border: 0px;
+box-shadow: -1px 2px 16px #ccc;
+}
